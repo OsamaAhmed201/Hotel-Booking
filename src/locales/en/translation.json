@@ -1,0 +1,95 @@
+{
+    "navbar": {
+        "home": "Home",
+        "explore": "Explore",
+        "favorites": "Favorites",
+        "register": "Register",
+        "loginNow": "Login Now",
+        "my-bookings": "My Bookings",
+        "logout": "Logout",
+        "lightMode": "Light Mode",
+        "darkMode": "Dark Mode"
+    },
+    "footer": {
+        "description": "We kaboom your beauty holiday instantly and memorable.",
+        "forBeginners": "For Beginners",
+        "newAccount": "New Account",
+        "startBooking": "Start Booking a Room",
+        "usePayments": "Use Payments",
+        "exploreUs": "Explore Us",
+        "ourCareers": "Our Careers",
+        "privacy": "Privacy",
+        "terms": "Terms & Conditions",
+        "connectUs": "Connect Us",
+        "location": "Beni Suef, Egypt"
+    },
+    "landing": {
+        "title": "Forget Busy Work, Start Next Vacation",
+        "highlight": "Start Next Vacation",
+        "description": "We provide what you need to enjoy your holiday with family. Time to make another memorable moments."
+    },
+    "language": {
+        "en": "English",
+        "ar": "Arabic"
+    },
+    "bookingForm": {
+        "startBooking": "Start Booking",
+        "pickDate": "Pick a Date",
+        "checkIn": "Check-in",
+        "checkOut": "Check-out",
+        "capacity": "Capacity",
+        "guests": "{{count}} person",
+        "guests_plural": "{{count}} persons",
+        "explore": "Explore"
+    },
+    "adsSection": {
+        "heading": "Most popular ads",
+        "perNight": "{{price}} per night"
+    },
+    "cardHome": {
+        "section1Title": "Houses with beauty backyard",
+        "section2Title": "Hotels with large living room",
+        "popularChoice": "Popular Choice",
+        "titles": {
+            "tabbyTown": "Gunung Batu, Indonesia",
+            "anggana": "Bogor, Indonesia",
+            "seattleRain": "Jakarta, Indonesia",
+            "woddenPit": "Wonosobo, Indonesia",
+            "greenPark": "Tangerang, Indonesia",
+            "podoWae": "Madiun, Indonesia",
+            "silverRain": "Bandung, Indonesia",
+            "cashville": "Kemang, Indonesia"
+        },
+        "locations": {
+            "bogor": "بوجور، إندونيسيا",
+            "jakarta": "جاكرتا، إندونيسيا",
+            "wonosobo": "ونوسوبو، إندونيسيا",
+            "tangerang": "تانغيرانغ، إندونيسيا",
+            "madiun": "ماديون، إندونيسيا",
+            "bandung": "باندونغ، إندونيسيا",
+            "kemang": "كيمانغ، إندونيسيا"
+        }
+    },
+    "feedback": {
+        "title": "What Our Clients Say",
+        "items": [{
+                "title": "Great Experience",
+                "text": "I had an amazing time with their services. Highly recommended!",
+                "author": "John Doe"
+            },
+            {
+                "title": "Wonderful Support",
+                "text": "The team helped me through everything, thanks!",
+                "author": "Jane Smith"
+            },
+            {
+                "title": "User-Friendly",
+                "text": "The interface was intuitive and easy to use.",
+                "author": "Ahmed Ali"
+            }
+        ]
+    },
+    "slider": {
+        "ads": "Ads"
+    }
+}
